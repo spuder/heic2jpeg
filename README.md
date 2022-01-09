@@ -1,5 +1,8 @@
 # heic2jpeg
 
+**Deprecated**: use this instead https://github.com/dooman87/imagemagick-docker
+
+
 A docker container to convert HEIC images to JPEG images.
 
 Used in [spuder/CAD-scripts](https://github.com/spuder/CAD-scripts)
